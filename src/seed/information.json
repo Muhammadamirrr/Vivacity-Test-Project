@@ -1,0 +1,66 @@
+{
+  "firstName": "Muhammad",
+  "lastName": "Amir",
+  "email": "m.amir.dev7@gmail.com",
+  "summary": "With over 7 years of experience as a fullstack developer, I seek to apply my expertise in a dynamic and innovative organization. Collaborating with cross-functional teams, my focus is on creating exceptional user experiences and implementing cutting-edge web technologies. I am driven to deliver visually appealing websites and applications of high quality.",
+  "currentJobTitle": "Senior Software Engineer",
+  "address": {
+    "street": "123 Main Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10001"
+  },
+  "socialMediaLinks": [
+    {
+      "platformId": 1,
+      "url": "https://www.linkedin.com/in/muhammadamir-dev"
+    },
+    {
+      "platformId": 2,
+      "url": "https://github.com/Muhammadamirrr"
+    }
+  ],
+  "skills": [
+    {
+      "skillName": "Node js"
+    },
+    {
+      "skillName": "HTML/CSS"
+    },
+    {
+      "skillName": "Vue.js"
+    },
+    {
+      "skillName": "JavaScript"
+    },
+    {
+      "skillName": "Sass"
+    },
+    {
+      "skillName": "React.js"
+    },
+    {
+      "skillName": "Bootstrap"
+    },
+    {
+      "skillName": "Angular"
+    },
+    {
+      "skillName": "Git"
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Senior Software Engineer",
+      "description": "Collaborated closely with designers, transforming concepts into aesthetically pleasing and user-friendly UI.\nPartnered with UX designers to implement intuitive navigation, seamless interactions, and visually stunning designs. And optimized frontend code by minimizing files, optimizing images, and boosting website loading speed.\nProactively learned new frameworks, libraries, and technologies to continuously enhance my skillset."
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Crafted clean, efficient, and maintainable code using HTML, CSS, and JavaScript to implement UX/UI design.\nTransformed design mockups into visually appealing and functional web pages.\nCollaborated with backend developers, seamlessly integrating frontend and backend components. And conducted comprehensive testing, debugging, and troubleshooting to ensure stability and reliability. Executed cross-device and cross-browser testing, identifying and fixing bugs for optimal performance."
+    },
+    {
+      "title": "Frontend Engineer",
+      "description": "Utilized React, Angular, or Vue.js to construct dynamic and interactive user interfaces, managing state and creating reusable components.\nImplemented Git for code repository management, tracking changes, and collaborating with developers. Ensured code quality, resolved conflicts, and merged code changes efficiently.\nOptimized website and application performance, enhancing loading times and user experience. Employed techniques like code minification, image optimization, and caching to improve site performance"
+    }
+  ]
+}

@@ -7,7 +7,7 @@ TABLE User (
   current_job_title
 );
 
-CREATE TABLE Address (
+TABLE Address (
   id
   street
   city
@@ -15,34 +15,34 @@ CREATE TABLE Address (
   zip
 );
 
-CREATE TABLE SocialMediaPlatform (
+TABLE SocialMediaPlatform (
   id
   name
 );
 
-CREATE TABLE SocialMediaLink (
+TABLE SocialMediaLink (
   id
   platformId
   url
 );
 
-CREATE TABLE UserAddress (
+TABLE UserAddress (
   userId
   addressId
 );
 
-CREATE TABLE UserSocialMediaLink (
+ TABLE UserSocialMediaLink (
   userId
   socialMediaLinkId
 );
 
-CREATE TABLE Skills (
+TABLE Skills (
   id
   userId
   skillName
 );
 
-CREATE TABLE Experiences (
+TABLE Experiences (
   id
   userId
   title
